@@ -71,3 +71,21 @@ agregar dias al fecha actual y restarle
  fecha2 := ahora.Add((time.Hour * 24 * 22) * -22)
  fmt.Printf("%v/%v/%v \n", fecha2.Day(), int(fecha2.Month()), fecha2.Year())
 ```
+
+tambien se puede saver la fecha dentro de un año
+
+```go
+ fmt.Println("Dentro de 1 año: ")
+ fecha3 := ahora.Add(365 * 24 * time.Hour)
+ fmt.Printf("%v/%v/%v \n", fecha3.Day(), int(fecha3.Month()), fecha3.Year())
+```
+
+para que se mas facil de usar se puede usar una funcion para formatear la salida por consola
+
+```go
+func FormatoFecha(fecha time.Time) string {
+ v := fmt.Sprintf("%v/%v/%v \n", fecha.Day(), int(fecha.Month()), fecha.Year())
+ return v
+}
+
+```
