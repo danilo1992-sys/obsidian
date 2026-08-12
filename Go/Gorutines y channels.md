@@ -1,8 +1,6 @@
 ---
-id: Gorutines y channels
-aliases:
-  - Gorutines y channels
-tags: []
+name: Gorutines y channels
+description: Concurrencia y comunicación entre goroutines
 ---
 
 # Gorutines y channels

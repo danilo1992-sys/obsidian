@@ -1,8 +1,6 @@
 ---
-id: Condicionales
-aliases:
-  - Condicionales
-tags: []
+name: Condicionales
+description: Operadores de comparación y estructuras if/else/switch
 ---
 
 # Condicionales

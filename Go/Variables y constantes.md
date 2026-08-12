@@ -1,8 +1,6 @@
 ---
-id: Variables y constantes
-aliases:
-  - Variables y constantes
-tags: []
+name: Variables y constantes
+description: Declaración de variables y constantes en Go
 ---
 
 # Variables y constantes

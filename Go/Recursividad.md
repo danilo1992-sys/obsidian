@@ -1,8 +1,6 @@
 ---
-id: Recursividad
-aliases:
-  - Recursividad
-tags: []
+name: Recursividad
+description: Funciones que se llaman a sí mismas
 ---
 
 # Recursividad

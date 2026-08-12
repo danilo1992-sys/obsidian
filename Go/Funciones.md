@@ -1,8 +1,6 @@
 ---
-id: Funciones
-aliases:
-  - Funciones
-tags: []
+name: Funciones
+description: Declaración, parámetros y retorno de funciones en Go
 ---
 
 # Funciones

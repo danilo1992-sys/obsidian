@@ -1,8 +1,6 @@
 ---
-id: "Arreglos (array) y Slices"
-aliases:
-  - "Arreglos (array) y Slices"
-tags: []
+name: "Arreglos (array) y Slices"
+description: Colecciones de datos con arreglos y slices en Go
 ---
 
 # Arreglos (array) y Slices

@@ -1,8 +1,6 @@
 ---
-id: "¿ Que es GO"
-aliases:
-  - "¿ Que es GO"
-tags: []
+name: "¿ Que es GO"
+description: Introducción al lenguaje de programación Go
 ---
 
 # ¿ Que es GO ?

@@ -1,8 +1,6 @@
 ---
-id: Funciones anónimas
-aliases:
-  - Funciones anónimas
-tags: []
+name: Funciones anónimas
+description: Funciones sin nombre declaradas dentro de variables
 ---
 
 # Funciones anónimas

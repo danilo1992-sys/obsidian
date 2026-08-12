@@ -1,8 +1,6 @@
 ---
-id: "¿Para que sirve el archivo go mod"
-aliases:
-  - "¿Para que sirve el archivo go mod"
-tags: []
+name: "¿Para que sirve el archivo go mod"
+description: Propósito del archivo go.mod en proyectos Go
 ---
 
 # ¿Para que sirve el archivo go.mod?

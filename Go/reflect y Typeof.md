@@ -1,8 +1,6 @@
 ---
-id: reflect y Typeof
-aliases:
-  - reflect y Typeof
-tags: []
+name: reflect y Typeof
+description: Detección automática de tipos de datos
 ---
 
 # reflect y Typeof

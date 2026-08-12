@@ -1,8 +1,6 @@
 ---
-id: Hola mundo con GO
-aliases:
-  - Hola mundo con GO
-tags: []
+name: Hola mundo con GO
+description: Primer programa en Go y estructura básica
 ---
 
 # Hola mundo con GO

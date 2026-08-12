@@ -1,8 +1,6 @@
 ---
-id: modulo-custom
-aliases:
-  - modulo-custom
-tags: []
+name: modulo-custom
+description: Creación de módulos personalizados en Go
 ---
 
 # modulo-custom

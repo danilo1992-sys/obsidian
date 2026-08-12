@@ -1,8 +1,6 @@
 ---
-id: Modulo Time
-aliases:
-  - Modulo Time
-tags: []
+name: Modulo Time
+description: Uso del paquete time para manejar fechas y horas
 ---
 
 # Modulos

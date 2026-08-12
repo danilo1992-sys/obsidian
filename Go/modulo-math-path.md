@@ -1,8 +1,6 @@
 ---
-id: modulo-math-path
-aliases:
-  - modulo-math-path
-tags: []
+name: modulo-math-path
+description: Generación de números aleatorios con math/rand
 ---
 
 # modulo-math-rath

@@ -1,8 +1,6 @@
 ---
-id: modulo-os
-aliases:
-  - modulo-os
-tags: []
+name: modulo-os
+description: Interacción con el sistema operativo y creación de CLIs
 ---
 
 # modulo-os

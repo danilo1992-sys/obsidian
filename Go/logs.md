@@ -1,8 +1,6 @@
 ---
-id: logs
-aliases:
-  - logs
-tags: []
+name: logs
+description: Sistema de logs y manejo de errores en Go
 ---
 
 # logs

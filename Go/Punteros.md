@@ -1,8 +1,6 @@
 ---
-id: Punteros
-aliases:
-  - Punteros
-tags: []
+name: Punteros
+description: Acceso a valores binarios y manejo de memoria en Go
 ---
 
 # Punteros

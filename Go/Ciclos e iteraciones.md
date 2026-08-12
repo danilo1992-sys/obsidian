@@ -1,8 +1,6 @@
 ---
-id: Ciclos e iteraciones
-aliases:
-  - Ciclos e iteraciones
-tags: []
+name: Ciclos e iteraciones
+description: Estructuras de repetición como for en Go
 ---
 
 # Ciclos e iteraciones

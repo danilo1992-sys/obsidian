@@ -1,8 +1,6 @@
 ---
-id: modulo-string
-aliases:
-  - modulo-string
-tags: []
+name: modulo-string
+description: Manipulación de cadenas de texto con strings
 ---
 
 # modulo-string

@@ -1,8 +1,6 @@
 ---
-id: Struct
-aliases:
-  - Struct
-tags: []
+name: Struct
+description: Estructuras para definir tipos de datos personalizados
 ---
 
 # Struct

@@ -1,8 +1,6 @@
 ---
-id: Defer y panic
-aliases:
-  - Defer y panic
-tags: []
+name: Defer y panic
+description: Mecanismos de diferimiento y manejo de errores en Go
 ---
 
 # Defer y panic

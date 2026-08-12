@@ -1,8 +1,6 @@
 ---
-id: Estructuras anidadas
-aliases:
-  - Estructuras anidadas
-tags: []
+name: Estructuras anidadas
+description: Estructuras que contienen otras estructuras dentro
 ---
 
 # Estructuras anidadas

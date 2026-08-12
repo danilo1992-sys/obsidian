@@ -1,8 +1,6 @@
 ---
-id: Funciones closure
-aliases:
-  - Funciones closure
-tags: []
+name: Funciones closure
+description: Funciones que retornan otras funciones
 ---
 
 # Funciones clousure

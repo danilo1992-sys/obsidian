@@ -1,8 +1,6 @@
 ---
-id: Go
-aliases:
-  - Go
-tags: []
+name: Go
+description: Índice de archivos del curso de Go
 ---
 
 # Go

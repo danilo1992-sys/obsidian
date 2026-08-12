@@ -1,8 +1,6 @@
 ---
-id: interfaces
-aliases:
-  - interfaces
-tags: []
+name: interfaces
+description: Contratos de estructuras en Go
 ---
 
 # interfaces

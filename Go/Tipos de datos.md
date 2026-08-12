@@ -1,8 +1,6 @@
 ---
-id: Tipos de datos
-aliases:
-  - Tipos de datos
-tags: []
+name: Tipos de datos
+description: Tipos básicos y compuestos en Go (string, bool, decimal)
 ---
 
 # Tipos de datos
