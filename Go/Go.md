@@ -1,3 +1,10 @@
+---
+id: Go
+aliases:
+  - Go
+tags: []
+---
+
 # Go
 
 [¿ Que es GO ?](Go/¿ Que es GO.md.md)

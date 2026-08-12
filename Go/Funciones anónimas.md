@@ -1,3 +1,10 @@
+---
+id: Funciones anónimas
+aliases:
+  - Funciones anónimas
+tags: []
+---
+
 # Funciones anónimas
 
 una función anónima no tiene nombre y se declara dentro de una variable, para utilizar la función se tiene que hacer referencia a la variable 

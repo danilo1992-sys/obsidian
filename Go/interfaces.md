@@ -1,3 +1,10 @@
+---
+id: interfaces
+aliases:
+  - interfaces
+tags: []
+---
+
 # interfaces
 
 una interfaz es un contrato de una estructura, para poder asociar la interfaz a la estructura hay que hacerlo por medio de una función  

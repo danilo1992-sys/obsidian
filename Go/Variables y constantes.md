@@ -1,3 +1,10 @@
+---
+id: Variables y constantes
+aliases:
+  - Variables y constantes
+tags: []
+---
+
 # Variables y constantes
 
 ## Variables

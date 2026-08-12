@@ -1,3 +1,10 @@
+---
+id: Struct
+aliases:
+  - Struct
+tags: []
+---
+
 # Struct
 
 una estructura es un objeto que tiene diferentes campos, es la representación contractual de distintos tipos de campos  

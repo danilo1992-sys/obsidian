@@ -1,3 +1,10 @@
+---
+id: Tipos de datos
+aliases:
+  - Tipos de datos
+tags: []
+---
+
 # Tipos de datos
 
 existen 2 tipos de datos los básicos y compuestos  

@@ -1,3 +1,10 @@
+---
+id: Funciones closure
+aliases:
+  - Funciones closure
+tags: []
+---
+
 # Funciones clousure
 
 una función clousure retorna otra función 

@@ -1,3 +1,10 @@
+---
+id: "¿ Que es GO"
+aliases:
+  - "¿ Que es GO"
+tags: []
+---
+
 # ¿ Que es GO ?
 
 es un lenguaje de programación concurrente estos significa que puede trabajar con  esquemas orientados a diagramas de flujo te permite implementar reglas de negocios ejemplo el modelo vista controlador 

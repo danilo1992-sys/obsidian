@@ -1,3 +1,10 @@
+---
+id: Recursividad
+aliases:
+  - Recursividad
+tags: []
+---
+
 # Recursividad
 
 la recursividad es cuando llamas un método se llama así mismo o cuando llamas a una función dentro del mismo método 

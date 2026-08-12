@@ -1,3 +1,10 @@
+---
+id: Hola mundo con GO
+aliases:
+  - Hola mundo con GO
+tags: []
+---
+
 # Hola mundo con GO
 
 el archivo principal por convenció se tiene que llamar main.go, utiliza un formato llamado hander 

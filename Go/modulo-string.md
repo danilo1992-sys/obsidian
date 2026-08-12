@@ -1,3 +1,10 @@
+---
+id: modulo-string
+aliases:
+  - modulo-string
+tags: []
+---
+
 # modulo-string
 
 el modilo strings no permite trabajar con cadenas de texto y formatearlos

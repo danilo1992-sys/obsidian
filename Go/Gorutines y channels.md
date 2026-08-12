@@ -1,3 +1,10 @@
+---
+id: Gorutines y channels
+aliases:
+  - Gorutines y channels
+tags: []
+---
+
 # Gorutines y channels
 
 los Gorutines son funciones que se pueden ejecutar en distintos canales, se puede pausar la función o enviarse a un canal, para pausar usamos el paquete time

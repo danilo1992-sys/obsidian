@@ -1,3 +1,10 @@
+---
+id: "¿Para que sirve el archivo go mod"
+aliases:
+  - "¿Para que sirve el archivo go mod"
+tags: []
+---
+
 # ¿Para que sirve el archivo go.mod?
 
 Por convención se recomienda que el nombre del proyecto sea igual al nombre del repositorio de GitHub 

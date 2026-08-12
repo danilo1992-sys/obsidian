@@ -1,3 +1,10 @@
+---
+id: reflect y Typeof
+aliases:
+  - reflect y Typeof
+tags: []
+---
+
 # reflect y Typeof
 
 con reflect podemos saber de forma automática el tipo de dato, para esto tendremos que utilizar la librería de reflect, 

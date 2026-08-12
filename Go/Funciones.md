@@ -1,3 +1,10 @@
+---
+id: Funciones
+aliases:
+  - Funciones
+tags: []
+---
+
 # Funciones
 
 para declarar una función en go hay que usar la palabra reservada de func seguido de un paréntesis seguido de corchetes, el corchete de apertura tiene que ir siempre seguido de los paréntesis para evitar error de sintaxis, para poder ejecutar una función ensilla hay que llamarla desde la función principal 

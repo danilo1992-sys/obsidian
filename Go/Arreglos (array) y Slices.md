@@ -1,3 +1,10 @@
+---
+id: "Arreglos (array) y Slices"
+aliases:
+  - "Arreglos (array) y Slices"
+tags: []
+---
+
 # Arreglos (array) y Slices
 
 de forma fácil y sencilla. un slice  o un arreglos es una variable que permite guardar múltiples datos 

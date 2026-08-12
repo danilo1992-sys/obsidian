@@ -1,3 +1,10 @@
+---
+id: Estructuras anidadas
+aliases:
+  - Estructuras anidadas
+tags: []
+---
+
 # Estructuras anidadas
 
 una estructura anidada hacer referencia a otra estructura dentro de la misma 

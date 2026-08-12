@@ -1,3 +1,10 @@
+---
+id: Hydra
+aliases:
+  - Hydra
+tags: []
+---
+
 es una herramienta de fuerza bruta 
 
 ##Panel de login

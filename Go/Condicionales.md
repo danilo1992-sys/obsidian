@@ -1,3 +1,10 @@
+---
+id: Condicionales
+aliases:
+  - Condicionales
+tags: []
+---
+
 # Condicionales
 
 operadores de comparación

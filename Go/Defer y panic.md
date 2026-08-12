@@ -1,3 +1,10 @@
+---
+id: Defer y panic
+aliases:
+  - Defer y panic
+tags: []
+---
+
 # Defer y panic
 
 el panic permite mostrar un mensaje para poder detener le script con la información detallada e nivel de terminal 
