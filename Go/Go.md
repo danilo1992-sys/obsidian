@@ -42,3 +42,4 @@ description: Índice de archivos del curso de Go
 [Estructuras anidadas](Go/Estructuras anidadas.md.md)
 
 [interfaces](Go/interfaces.md.md)
+> _Probando despliegue automático_ 
