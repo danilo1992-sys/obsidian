@@ -1,0 +1,14 @@
+name: Trigger Netlify Build
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notificar a Netlify
+        run: |
+          curl -X POST -d '' ${{ secrets.NETLIFY_OBSIDIAN }}
