@@ -43,3 +43,4 @@ description: Índice de archivos del curso de Go
 
 [interfaces](Go/interfaces.md.md)
 > _Probando despliegue automático_ 
+> _Deploy verificado via workflow 1786635313
