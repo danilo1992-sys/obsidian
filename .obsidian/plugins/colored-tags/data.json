@@ -9,7 +9,13 @@
   "accessibility": {
     "highTextContrast": false
   },
-  "knownTags": {},
+  "knownTags": {
+    "eternalblue": 1,
+    "htb": 2,
+    "ms17-010": 3,
+    "principiante": 4,
+    "windows": 5
+  },
   "tagColors": {},
   "_version": 4
 }
