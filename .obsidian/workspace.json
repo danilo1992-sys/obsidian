@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberceguridad/Blue.md",
-                "mode": "preview",
+                "file": "Ciberceguridad/Hydra.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blue"
+              "title": "Hydra"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "9389167dee10cf10",
   "lastOpenFiles": [
-    "Ciberceguridad/Hydra.md",
     "Ciberceguridad/Blue.md",
+    "Ciberceguridad/Hydra.md",
     "Ciberceguridad/Blue 24251618b69c800e87aff6dc77b5c865.md",
     "Go/go-mysql.md",
     "Go/go-mysql.md~",
